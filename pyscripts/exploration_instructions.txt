@@ -1,0 +1,8 @@
+1) Get the zipped image file from this link:
+https://uflorida-my.sharepoint.com/:u:/g/personal/saijayan_chidira_ufl_edu/EQoFSQVJfThNqX3gNjnWglsBAnBWqn51Lwd0Sp2oG67x-Q?e=Z4Nck7
+2) unzip it inside the directory FirmWire/images
+3) Setup the docker instance and launch it once to make sure it is working. 
+Instruction to setup FirmWire Docker instance can be found here:
+https://firmwire.github.io/docs/installation.html
+4) Close the docker instance, run python file exploration_script.py to start the exploration.
+

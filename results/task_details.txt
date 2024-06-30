@@ -1,0 +1,134 @@
+
+NVRAM: Non-Volatile Random Access Memory
+SRVCCCI: Service CCCI (Central Control Interface)
+DHL: Data Handover Layer
+DR: Data Relay
+DRT0: Data Relay Task 0
+DRT1: Data Relay Task 1
+0MDDBG: Debug Task for Modem 0
+1MDDBG: Debug Task for Modem 1
+DHL_SPR: Data Handover Layer for Single-Pipe Relay
+DHLHD: Data Handover Layer for Heterogeneous Devices
+DSMT: Data Service Management Task
+DSMR: Data Service Management Resource
+STKBRG: STK (SIM Toolkit) Bridge Task
+STKMBUF: STK Message Buffer Task
+STKEVTD: STK Event Dispatcher Task
+STKDEMX: STK Demultiplexer Task
+MDM: Modem Task
+RRLP: Radio Resource Location Protocol
+RATCM: Radio Access Technology Control Manager
+MRS: Modem Resource Scheduler
+URR: UTRAN (UMTS Terrestrial Radio Access Network) Radio Resource Management Task
+UL2: UTRAN Layer 2 Task
+TL2: Terrestrial Layer 2 Task
+UL2D: UTRAN Layer 2 Decipher Task
+TL2D: Terrestrial Layer 2 Decipher Task
+GL1_PCORE: GSM Layer 1 Physical Core Task
+RSVA: Receive Signal Strength Value Average Task
+MM: Mobility Management Task
+CC: Call Control Task
+CISS: Circuit Switched Services Task
+SMS: Short Message Service Task
+SIM: Subscriber Identity Module Task
+SIM2: Second Subscriber Identity Module Task
+L4: Layer 4 Task
+RR_FDD: Radio Resource Task for Frequency Division Duplexing (FDD)
+RR_TDD: Radio Resource Task for Time Division Duplexing (TDD)
+RSMFDD: Resource Scheduler Manager for FDD
+RSMTDD: Resource Scheduler Manager for TDD
+SNDCP: Subnetwork Dependent Convergence Protocol Task
+USM: UTRAN State Machine Task
+LLC: Logical Link Control Task
+ULCS: UTRAN Layer 2 Cipher Service Task
+NWSEL: Network Selection Task
+MMF_PCORE: Mobility Management Function Physical Core Task
+TRR: Timer Resource Task
+UL1: UTRAN Layer 1 Task
+L1: Layer 1 Task
+L1_2: Layer 1.2 Task
+LAS: L1 Agent Service Task
+MRF: Modem Resource Framework
+TL1: Terrestrial Layer 1 Task
+TL1DATA: Terrestrial Layer 1 Data Task
+FTA: Fast TBF (Temporary Block Flow) Assignment Task
+XTST: External Test Task
+ATP: Access Technology Preview Task
+DDM: Device Driver Manager Task
+L1D_MDM: Layer 1 Driver for Modem Task
+LMD: Layer Management and Debugging Task
+CPSW: Control Plane Software Task
+CVAL: Control Value Task
+XRLP: Extended Radio Link Protocol Task
+CHLP: Channel Handler Layer Protocol Task
+CUIM: Carrier UI Manager Task
+CSS: Carrier System Services Task
+CHSC: Channel Scheduler Task
+EVSLC: Enhanced Voice Service Layer Control Task
+EVRMC: Event Response Task for RMC
+EVFCP: Event Response Task for FCP
+EVRCP: Event Response Task for RCP
+CLEC: Cellular Enhance Logical Channel
+CSEC: Cellular Secured Logical Channel
+CL1TST: Calibration Layer 1 Test
+RR_SMP: Radio Resource Sampling Task for FDD
+RR_sMP_TDD: Radio Resource Sampling Task for TDD
+SBP: Standby Power Management Task
+IPC_ADAPTER: Inter-process Communication Adapter
+SSIPC: System Service IPC Task
+SSDIAG: System Service Diagnostic Task
+SSU: System Service Update Task
+CASS: Call Session Control Function Application
+SS_STARTUP: System Service Startup Task
+ERT: Embedded Resource Task
+EMACDL: Ethernet Media Access Control Data Link Layer Task
+EL2H5: Enhanced Layer 2 High Priority Task
+EL25: Enhanced Layer 2 Low Priority Task
+ERRC: Enhanced Routing and Radio Control
+EMM: EPS Mobility Management Task
+EVAL: Embedded Validation Task
+ETC: Embedded Thermal Control
+LPP: LTE Positioning Protocol Task
+IMC: Interference Measurement Control Task
+SDM: Service Domain Management Task
+VDM: Voice Domain Management Task
+IWLAN: Integrated Wireless Local Area Network Task
+WO: WCDMA Optimization Task
+EL1: Enhanced Layer 1 Task
+EL1_MPC: Enhanced Layer 1 Multi-PHY Control Task
+MLL1: Modem Layer 1 Task
+SIMMNGR: SIM Manager Task
+L1ADT: Layer 1 Automatic Digital Testing Task
+SSDS: System Service Data Storage Task
+VT: Voice Transmission Task
+FT: FAX Transmission Task
+FTC: FAX Transmission Control Task
+LBS: Location Based Service Task
+IPCORE: Inter-process Communication Core
+NMU: Network Management Unit Task
+DEVCCCI: Device CCCI Task
+LTECSR: LTE Call Session Resource Control Task
+DPCOPRO: Data Plane Control Processor Task
+KPALV: Key Pad LED and Vibration Task
+CMUX: Channel Multiplexing Task
+AUDIO: Audio Playback and Recording Task
+L1AUDIO_SPH_SRV: Layer 1 Audio Speech Service Task
+MED: Modem Engine Driver Task
+0IDLE: Idle Task for CPU 0
+1IDLE: Idle Task for CPU 1
+2IDLE: Idle Task for CPU 2
+3IDLE: Idle Task for CPU 3
+AUDL: Audio Decoder Library Task
+CCISMCORE: Common Channel and Interface Service Module Core
+LHIFCORE: Low-level Hardware Interface Module Core
+CCBCCISM: Cell Broadcast Channel Common Channel and Interface Service Module
+SCPCCISM: Short Message Service Control Point Common Channel and Interface Service Module
+
+
+Use AT commands Maybe?
+MDM: Modem Task
+L1: Layer 1 Task
+L1_2: Layer 1.2 Task
+ML1: Modem Layer 1 Task
+L1ADT: Layer 1 Automatic Digital Testing Task
+L1AUDIO_SPH_SRV: Layer 1 Audio Speech Service Task

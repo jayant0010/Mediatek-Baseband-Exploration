@@ -1,0 +1,73 @@
+8:SRVCCCI:Service CCCI (Central Control Interface)
+758:WO:Unknown Task
+178:CC:Call Control Task
+198:L4:Layer 4 Task
+228:L4:Layer 4 Task
+238:L4:Layer 4 Task
+268:SNDCP:Subnetwork Dependent Convergence Protocol Task
+278:LLC:Logical Link Control Task
+58:DSMR:Data Service Management Resource
+418:RR_sMP_:Radio Resource Task for Single-Mode Platform
+438:IPC_ADA:Unknown Task
+448:IPC_ADA:Unknown Task
+458:IPC_ADA:Unknown Task
+468:IPC_ADA:Unknown Task
+128:LAS:Location Area Service Task
+7:SRVCCCI:Service CCCI (Central Control Interface)
+297:NWSEL:Network Selection Task
+417:RR_sMP_:Radio Resource Task for Single-Mode Platform
+427:IPC_ADA:Unknown Task
+437:IPC_ADA:Unknown Task
+447:IPC_ADA:Unknown Task
+457:IPC_ADA:Unknown Task
+467:IPC_ADA:Unknown Task
+757:WO:Unknown Task
+127:LAS:Location Area Service Task
+177:CC:Call Control Task
+197:L4:Layer 4 Task
+227:L4:Layer 4 Task
+237:L4:Layer 4 Task
+267:SNDCP:Subnetwork Dependent Convergence Protocol Task
+277:LLC:Logical Link Control Task
+735:IMC:Unknown Task
+775:SSDS:System Services Debugging Task
+175:MM:Mobility Management Task
+415:RR_SMP:Radio Resource Task for Single-Mode Platform
+425:IPC_ADA:Unknown Task
+435:IPC_ADA:Unknown Task
+445:IPC_ADA:Unknown Task
+455:IPC_ADA:Unknown Task
+465:IPC_ADA:Unknown Task
+235:L4:Layer 4 Task
+275:USM:UTRAN State Machine Task
+295:NWSEL:Network Selection Task
+835:IPCORE:Unknown Task
+431:IPC_ADA:Unknown Task
+441:IPC_ADA:Unknown Task
+451:IPC_ADA:Unknown Task
+461:IPC_ADA:Unknown Task
+201:L4:Layer 4 Task
+211:L4:Layer 4 Task
+221:L4:Layer 4 Task
+231:L4:Layer 4 Task
+181:CISS:Circuit Switched Services Task
+751:IWLAN:Interworking Wireless LAN Task
+251:RR_TDD:Radio Resource Task for Time Division Duplexing (TDD)
+750:IWLAN:Interworking Wireless LAN Task
+760:WO:Unknown Task
+270:USM:UTRAN State Machine Task
+430:IPC_ADA:Unknown Task
+440:IPC_ADA:Unknown Task
+450:IPC_ADA:Unknown Task
+460:IPC_ADA:Unknown Task
+180:CISS:Circuit Switched Services Task
+190:CUIM:Circuit Switched Services User Identity Module Task
+200:L4:Layer 4 Task
+210:L4:Layer 4 Task
+220:L4:Layer 4 Task
+230:L4:Layer 4 Task
+752:IWLAN:Interworking Wireless LAN Task
+322:LAS:Location Area Service Task
+382:CUIM:Circuit Switched Services User Identity Module Task
+152:UL2D:UTRAN Layer 2 Decipher Task
+182:SMS:Short Message Service
